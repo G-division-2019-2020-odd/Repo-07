@@ -1,2 +1,2 @@
 # Repo-07
-wax carving machine
+plastic wrapping machine
